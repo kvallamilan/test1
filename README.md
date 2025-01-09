@@ -1,2 +1,2 @@
 # Lucky kávézó
-# Ez az első github-os feladatom
+## Ez az első github-os feladatom
